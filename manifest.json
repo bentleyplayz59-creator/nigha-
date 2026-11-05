@@ -1,0 +1,10 @@
+{
+  "Name": "Bentley Makeover",
+  "Author": "Developer",
+  "Version": "1.0.0",
+  "Description": "Transforms your farmer instantly into a sleek, well-dressed gentleman with a console command.",
+  "UniqueID": "Developer.BentleyMakeover",
+  "EntryDll": "BentleyMakeover.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
